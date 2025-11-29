@@ -96,3 +96,54 @@
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </div>
+<table align="center" border="0" width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td width="45%" valign="top" style="padding-right: 20px;">
+      <h3 style="border-bottom: 2px solid #ffffff; padding-bottom: 10px;">🛠️ Tech Arsenal</h3>
+      
+      <b>Intelligence & Data</b>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,pandas,numpy&theme=dark" />
+      <br/><br/>
+      
+      <b>Visualization & BI</b>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=powerbi,tableau,excel,matlab&theme=dark" />
+      <br/><br/>
+      
+      <b>Core & Tools</b>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=cpp,git,mysql,linux,vscode&theme=dark" />
+      
+      <br/><br/>
+      
+      <a href="[LINKEDIN_LINK]">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+
+    <td width="55%" valign="top" style="background-color: #0d1117; border-radius: 10px; padding: 15px;">
+      <h3 style="color: #58a6ff;">🚀 Featured Deployment</h3>
+      
+      <div align="center">
+        <a href="[YOUR_PORTFOLIO_LINK]">
+          <img src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1000&auto=format&fit=crop" width="100%" style="border-radius: 8px; border: 1px solid #30363d;" />
+        </a>
+      </div>
+      
+      <br/>
+      
+      <h4>🤖 The AI-Native Portfolio</h4>
+      <p style="color: #8b949e;">
+        A custom-built personal platform featuring a <b>Secure Gemini AI Integration</b>. 
+        Engineered with a protected backend to handle API keys and context, answering recruiter queries in real-time.
+      </p>
+      
+      <p align="right">
+        <a href="[YOUR_PORTFOLIO_LINK]">
+          <img src="https://img.shields.io/badge/LIVE_DEMO-2ea043?style=flat-square&logo=google-chrome&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>

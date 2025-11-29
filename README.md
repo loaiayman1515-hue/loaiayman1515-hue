@@ -1,81 +1,98 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f0f0f&height=120&section=header&text=PETER%20ADEL&fontSize=70&fontColor=00b4d8&animation=fadeIn&fontAlign=50&desc=Data%20Scientist%20%7C%20AI%20Developer%20%7C%20CyberSec%20Enthusiast&descFontSize=20&descFontColor=ffffff&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=LOUAY&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20ENGINEER%20%7C%20DATA%20ANALYST&descAlignY=60&descAlign=50"/>
 </div>
 
 <div align="center">
-  <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Analyzing+Data...+Building+Models...;Securing+Backends...+Optimizing+Algorithms...;Welcome+to+my+Digital+Workspace." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7F7F7&background=0D1117&center=true&vCenter=true&width=700&lines=%3E_Initializing_System...;%3E_Loading_Modules:_Data_Analysis_%2C_Deep_Learning;%3E_Current_Status:_Building_Scalable_AI_Solutions;%3E_Target:_Transforming_Raw_Data_into_Decisions" alt="Typing SVG" />
   </a>
 </div>
 
-<br/>
+<br/><br/>
 
-<table align="center" border="0" width="100%">
+<table align="center" border="0" width="100%" style="border-collapse: collapse;">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center" style="color: #00b4d8;">🛠️ Engineering Stack</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=python,java,cpp,cs&theme=dark" /><br/><br/>
-        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,scikitlearn,matlab&theme=dark" /><br/><br/>
-        <img src="https://skillicons.dev/icons?i=html,css,js,mysql,postgres,mongodb&theme=dark" /><br/><br/>
-        <img src="https://skillicons.dev/icons?i=git,docker,linux,arduino,vscode&theme=dark" />
-      </div>
-    </td>
-    
-    <td width="50%" valign="top" align="center">
-      <h3 align="center" style="color: #00b4d8;">📊 Contribution Data</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=0PeterAdel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" />
+    <td width="45%" valign="top" style="padding-right: 20px;">
+      <h3 style="border-bottom: 2px solid #ffffff; padding-bottom: 10px;">🛠️ Tech Arsenal</h3>
+      
+      <b>Intelligence & Data</b>
       <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=0PeterAdel&theme=tokyonight&hide_border=true&background=00000000" />
+      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,pandas,numpy&theme=dark" />
+      <br/><br/>
+      
+      <b>Visualization & BI</b>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=powerbi,tableau,excel,matlab&theme=dark" />
+      <br/><br/>
+      
+      <b>Core & Tools</b>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=cpp,git,mysql,linux,vscode&theme=dark" />
+      
+      <br/><br/>
+      
+      <a href="[LINKEDIN_LINK]">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+
+    <td width="55%" valign="top" style="background-color: #0d1117; border-radius: 10px; padding: 15px;">
+      <h3 style="color: #58a6ff;">🚀 Featured Deployment</h3>
+      
+      <div align="center">
+        <a href="[YOUR_PORTFOLIO_LINK]">
+          <img src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1000&auto=format&fit=crop" width="100%" style="border-radius: 8px; border: 1px solid #30363d;" />
+        </a>
+      </div>
+      
+      <br/>
+      
+      <h4>🤖 The AI-Native Portfolio</h4>
+      <p style="color: #8b949e;">
+        A custom-built personal platform featuring a <b>Secure Gemini AI Integration</b>. 
+        Engineered with a protected backend to handle API keys and context, answering recruiter queries in real-time.
+      </p>
+      
+      <p align="right">
+        <a href="[YOUR_PORTFOLIO_LINK]">
+          <img src="https://img.shields.io/badge/LIVE_DEMO-2ea043?style=flat-square&logo=google-chrome&logoColor=white"/>
+        </a>
+      </p>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<div align="center">
-  <h2 style="border-bottom: 2px solid #00b4d8; display: inline-block;">🚀 Featured System: AI-Powered Portfolio</h2>
-  <br/><br/>
-  
-  <table border="0" width="90%">
-    <tr>
-      <td width="60%">
-        <blockquote>
-          "More than a website. It's an intelligent agent."
-        </blockquote>
-        <p>
-          I engineered a personal portfolio that integrates <b>Generative AI (Gemini)</b> to interact with recruiters. It features a secure backend architecture and real-time data processing.
-        </p>
-        <br/>
-        <a href="https://peteradel.netlify.app">
-          <img src="https://img.shields.io/badge/LIVE_DEMO-00b4d8?style=for-the-badge&logo=google-chrome&logoColor=black"/>
-        </a>
-        <a href="https://github.com/0PeterAdel/YOUR_REPO_NAME">
-          <img src="https://img.shields.io/badge/SOURCE_CODE-212121?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </td>
-      <td width="40%">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=0PeterAdel&theme=react-dark&hide_border=true&area=true&color=00b4d8" width="100%"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<h3 align="center">📂 Engineering Log</h3>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%">
+      <div align="center">
+        <b>🚦 Traffic Prediction System</b><br/><br/>
+        <img src="https://img.shields.io/badge/Algorithm-Random_Forest-orange?style=flat-square"/>
+        <p>Smart city solution using ML to predict congestion patterns from historical data.</p>
+        <a href="#">View Code →</a>
+      </div>
+    </td>
+    <td width="50%">
+      <div align="center">
+        <b>📊 Market Sales Dashboard</b><br/><br/>
+        <img src="https://img.shields.io/badge/Tool-PowerBI_%26_Excel-yellow?style=flat-square"/>
+        <p>End-to-end BI project analyzing sales trends to drive inventory decisions.</p>
+        <a href="#">View Code →</a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br/><br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=80&section=footer"/>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&count_private=true" />
+</div>
+
+<div align="center">
   <br/>
-  
-  <a href="https://www.linkedin.com/in/1peteradel/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin"/>
-  </a>
-  <a href="mailto:1peteradel@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=social&logo=gmail"/>
-  </a>
-  <a href="https://peteradel.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Web-black?style=social&logo=firefox"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </div>

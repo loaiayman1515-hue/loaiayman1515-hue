@@ -1,61 +1,21 @@
-# [اسم المشروع هنا - مثلاً: Sales Data Dashboard] 📊
+<p align="center">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+</p>
 
-![Project Banner/Screenshot](put_image_link_here_or_delete_this_line)
-> *وصف سريع جداً للمشروع في جملة واحدة (Slogan).*
-
----
-
-## 📝 Table of Contents
-- [About the Project](#-about-the-project)
-- [Technologies Used](#-technologies-used)
-- [Key Insights & Results](#-key-insights--results)
-- [How to Run](#-how-to-run)
-- [Contact](#-contact)
-
----
-
-## 🧐 About the Project
-**[اكتب هنا وصف المشروع بالتفصيل]**
-* **The Problem:** [اكتب المشكلة اللي بتحاول تحلها، مثلاً: الشركة كانت عايزة تعرف سبب انخفاض المبيعات].
-* **The Goal:** [اكتب هدفك، مثلاً: تحليل البيانات لبناء داشبورد تفاعلية تساعد في اتخاذ القرار].
-
----
-
-## 💻 Technologies Used
-الأدوات والمكتبات اللي استخدمتها في المشروع:
-
-* ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **Python** (Pandas, NumPy, Scikit-learn)
-* ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) **Excel**
-* ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white) **SQL**
-* **Visualization:** Matplotlib / Seaborn / Tableau / PowerBI.
-
-*(امسح الأدوات اللي ماستخدمتهاش)*
-
----
-
-## 📊 Key Insights & Results
-أهم النتائج اللي طلعت بيها من التحليل (الجزء ده مهم جداً للـ Recruiters):
-
-1.  **Insight 1:** [مثلاً: المبيعات بتزيد بنسبة 20% في شهر رمضان].
-2.  **Insight 2:** [مثلاً: المنتج X هو الأكثر مبيعاً لكن هامش ربحه قليل].
-3.  **Model Accuracy:** [لو ده مشروع AI، اكتب دقة الموديل مثلاً: 92% Accuracy].
-
----
-
-## 📸 Screenshots / Demo
-صور من الداشبورد أو البرنامج وهو شغال:
-
-![Dashboard Screenshot 1](put_image_link_here)
-*Caption describing image 1*
-
-![Dashboard Screenshot 2](put_image_link_here)
-*Caption describing image 2*
-
----
-
-## 🚀 How to Run
-ازاي حد يشغل الكود ده عنده:
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YourUsername/RepoName.git](https://github.com/YourUsername/RepoName.git)
+<p align="center">
+  <a href="https://twitter.com/iolardemartini" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/iolardemartini" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/iolarjr" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+  </a>
+  <a href="https://medium.com/@Demartini" target="_blank">
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
+  </a>
+  <a href="https://www.facebook.com/iolardemartini" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
+  </a>
+</p>

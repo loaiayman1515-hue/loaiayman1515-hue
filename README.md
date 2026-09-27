@@ -21,7 +21,7 @@
 
 <br/><br/>
 
-[About](#about) • [Tech Stack](#tech-stack) • [Stats](#stats) • [Skyline](#skyline) • [Projects](#projects) • [Currently Learning](#learning) • [Connect](#connect)
+
 
 </div>
 

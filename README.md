@@ -134,27 +134,6 @@ I'm a **Software Engineering student** passionate about **Artificial Intelligenc
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/loaiayman1515-hue/loaiayman1515-hue/main/assets/trophies.svg" alt="Loay's GitHub Trophies"/>
-
-</div>
-
-<br/>
-
-<a id="skyline"></a>
-## 🌆 GitHub Skyline — My Contributions as a 3D City
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/loaiayman1515-hue/loaiayman1515-hue/main/assets/skyline.svg" alt="Loay's GitHub Skyline — a 3D isometric city built from a year of commits"/>
-
-</div>
-
-> Every building in this skyline is a day of contributions — the taller the tower, the more active the day. It's the same concept behind GitHub's physical 3D-printed [Skyline](https://skyline.github.com) keepsake, generated automatically here via [lowlighter/metrics](https://github.com/lowlighter/metrics) instead of a static stats card.
-
 <br/>
 
 ## 🐍 Contribution Snake

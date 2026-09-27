@@ -1,0 +1,84 @@
+name: Update Profile Assets
+
+# Regenerates the GitHub Statistics, Top Languages, and Trophies cards as
+# static SVG files committed straight into the repo, plus a GitHub Skyline
+# (3D isometric contribution city). The README points at these committed
+# files (served from raw.githubusercontent.com) instead of hitting the
+# public github-readme-stats.vercel.app / github-profile-trophy.vercel.app
+# endpoints live on every page view. Those public instances are shared,
+# rate-limited services -- when GitHub's image proxy hits them at the wrong
+# moment it caches the failure and the icon stays broken. Fetching them
+# here, from Actions, and only committing a successful result means a bad
+# fetch just gets retried on the next run instead of leaving a dead image.
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # refresh every 6 hours
+  workflow_dispatch: {}       # lets you trigger it manually from the Actions tab
+
+jobs:
+  update-assets:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Create assets directory
+        run: mkdir -p assets
+
+      - name: Fetch GitHub Stats card
+        run: |
+          curl -sL --fail \
+            "https://github-readme-stats.vercel.app/api?username=loaiayman1515-hue&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EA6FF&icon_color=2EA6FF&text_color=C9D1D9" \
+            -o assets/stats.new.svg || true
+
+      - name: Fetch Top Languages card
+        run: |
+          curl -sL --fail \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=loaiayman1515-hue&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EA6FF&text_color=C9D1D9" \
+            -o assets/top-langs.new.svg || true
+
+      - name: Fetch Trophies card
+        run: |
+          curl -sL --fail \
+            "https://github-profile-trophy.vercel.app/?username=loaiayman1515-hue&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" \
+            -o assets/trophies.new.svg || true
+
+      - name: Keep only successful fetches
+        # If a fetch failed or returned something that isn't a real SVG,
+        # discard the .new file so the previously-committed version stays
+        # in place instead of being overwritten with a broken one.
+        run: |
+          for name in stats top-langs trophies; do
+            new="assets/${name}.new.svg"
+            final="assets/${name}.svg"
+            if [ -s "$new" ] && grep -q "<svg" "$new"; then
+              mv "$new" "$final"
+              echo "Updated $final"
+            else
+              echo "Fetch for $name failed or was invalid — keeping the existing $final"
+              rm -f "$new"
+            fi
+          done
+
+      - name: Generate GitHub Skyline (3D isometric contribution city)
+        # No token needed for this plugin specifically -- lowlighter/metrics
+        # still requires the input to be present, hence the literal string.
+        uses: lowlighter/metrics@latest
+        continue-on-error: true   # a failure here shouldn't block the cards above from committing
+        with:
+          filename: assets/skyline.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_skyline: yes
+          plugin_skyline_year: current-year
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 0.8
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh profile stats/top-langs/trophies/skyline assets"
+          file_pattern: assets/*.svg

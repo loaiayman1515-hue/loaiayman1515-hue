@@ -177,7 +177,7 @@ I'm a **Software Engineering student** passionate about **Artificial Intelligenc
 
 </div>
 
-> Generated automatically via GitHub Actions using [Platane/snk](https://github.com/Platane/snk).
+> 
 
 <br/>
 <br/>

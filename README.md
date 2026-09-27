@@ -9,8 +9,8 @@
 
 **Software Engineering Student · Data Scientist · Machine Learning & Deep Learning Engineer**
 
-<img src="https://komarev.com/ghpvc/?username=loayayman1515-hue&label=Profile%20Views&color=2EA6FF&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/loayayman?label=Followers&style=for-the-badge&color=2EA6FF" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=loaiayman1515-hue&label=Profile%20Views&color=2EA6FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/loaiayman1515-hue?label=Followers&style=for-the-badge&color=2EA6FF" alt="Followers"/>
 
 <br/>
 
@@ -19,20 +19,15 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/your-kaggle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
 
-</div>
+<br/><br/>
 
-<br/>
-
-## 🧠 AI Terminal
-
-<div align="center">
-
-<img src="./assets/loay-terminal.svg" width="900" alt="Loay Ayman AI terminal" />
+[About](#about) • [Tech Stack](#tech-stack) • [Stats](#stats) • [Skyline](#skyline) • [Projects](#projects) • [Currently Learning](#learning) • [Connect](#connect)
 
 </div>
 
 <br/>
 
+<a id="about"></a>
 ## 🚀 About Me
 
 ```python
@@ -65,6 +60,7 @@ I'm a **Software Engineering student** passionate about **Artificial Intelligenc
 
 <br/>
 
+<a id="tech-stack"></a>
 ## 🛠 Tech Stack
 
 <div align="center">
@@ -123,15 +119,15 @@ I'm a **Software Engineering student** passionate about **Artificial Intelligenc
 </div>
 
 <br/>
-
 <br/>
 
+<a id="stats"></a>
 ## 📈 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=loayayman1515-hue&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EA6FF&icon_color=2EA6FF&text_color=C9D1D9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loayayman1515-hue&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EA6FF&text_color=C9D1D9"/>
+<img height="165" src="https://raw.githubusercontent.com/loaiayman1515-hue/loaiayman1515-hue/main/assets/stats.svg" alt="Loay's GitHub Stats"/>
+<img height="165" src="https://raw.githubusercontent.com/loaiayman1515-hue/loaiayman1515-hue/main/assets/top-langs.svg" alt="Loay's Top Languages"/>
 
 </div>
 
@@ -141,56 +137,75 @@ I'm a **Software Engineering student** passionate about **Artificial Intelligenc
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=loayayman1515-hue&theme=tokyonight&hide_border=true&background=0D1117&stroke=2EA6FF&ring=2EA6FF&fire=2EA6FF&currStreakLabel=2EA6FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=loaiayman1515-hue&theme=tokyonight&hide_border=true&background=0D1117&stroke=2EA6FF&ring=2EA6FF&fire=2EA6FF&currStreakLabel=2EA6FF" alt="Loay's GitHub Streak"/>
 
 </div>
 
 <br/>
 
-## 🌌 Contribution Universe
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=loayayman1515-hue&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
+<img src="https://raw.githubusercontent.com/loaiayman1515-hue/loaiayman1515-hue/main/assets/trophies.svg" alt="Loay's GitHub Trophies"/>
 
 </div>
 
 <br/>
 
-## 🌌 Contribution Universe
+<a id="skyline"></a>
+## 🌆 GitHub Skyline — My Contributions as a 3D City
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/loayayman1515-hue/loayayman1515-hue/comet-graph/comet.svg" alt="Cinematic comet contribution graph" />
+<img src="https://raw.githubusercontent.com/loaiayman1515-hue/loaiayman1515-hue/main/assets/skyline.svg" alt="Loay's GitHub Skyline — a 3D isometric city built from a year of commits"/>
 
 </div>
 
+> Every building in this skyline is a day of contributions — the taller the tower, the more active the day. It's the same concept behind GitHub's physical 3D-printed [Skyline](https://skyline.github.com) keepsake, generated automatically here via [lowlighter/metrics](https://github.com/lowlighter/metrics) instead of a static stats card.
+
 <br/>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/loaiayman1515-hue/loaiayman1515-hue/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+/>
+
+</div>
+
+> Generated automatically via GitHub Actions using [Platane/snk](https://github.com/Platane/snk).
+
+<br/>
+<br/>
+
+<a id="projects"></a>
 ## 📌 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/loayayman/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=loayayman1515-hue&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EA6FF&icon_color=2EA6FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/loayayman/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=loayayman1515-hue&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EA6FF&icon_color=2EA6FF&text_color=C9D1D9" />
-</a>
+<!--
+  TODO: point these four slots at your real repositories once decided (see
+  the note in chat about which GitHub account/repos to use). Pattern for
+  each slot:
 
-<a href="https://github.com/loayayman/REPO_NAME_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=loayayman1515-hue&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EA6FF&icon_color=2EA6FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/loayayman/REPO_NAME_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=loayayman1515-hue&repo=REPO_NAME_4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EA6FF&icon_color=2EA6FF&text_color=C9D1D9" />
-</a>
+  <a href="https://github.com/<owner>/<repo>">
+    <img src="https://raw.githubusercontent.com/loaiayman1515-hue/loaiayman1515-hue/main/assets/pin-<repo-slug>.svg" alt="<repo>"/>
+  </a>
+  <br/>
+  One real sentence on what it does and what it uses.
+-->
+
+🚧 *Featured projects are staged and waiting on repo names — see the note below the README about which repos to feature.* 🚧
 
 </div>
 
-> Replace `REPO_NAME_1`–`REPO_NAME_4` with your actual pinned repository names (e.g. your Bayt Mama Admin Service, EEG/BCI work, or a Kaggle-style ML project).
-
 <br/>
 
+<a id="learning"></a>
 ## 🌱 Currently Learning
 
 <div align="center">
@@ -205,13 +220,14 @@ I'm a **Software Engineering student** passionate about **Artificial Intelligenc
 
 <br/>
 
+<a id="connect"></a>
 ## 📫 Connect with Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loayayman1515-hue)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loaiayman1515-hue)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/your-kaggle)
 
 <br/>

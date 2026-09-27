@@ -122,15 +122,6 @@ I'm a **Software Engineering student** passionate about **Artificial Intelligenc
 <br/>
 
 <a id="stats"></a>
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://raw.githubusercontent.com/loaiayman1515-hue/loaiayman1515-hue/main/assets/stats.svg" alt="Loay's GitHub Stats"/>
-<img height="165" src="https://raw.githubusercontent.com/loaiayman1515-hue/loaiayman1515-hue/main/assets/top-langs.svg" alt="Loay's Top Languages"/>
-
-</div>
-
 <br/>
 
 ## 🔥 GitHub Streak

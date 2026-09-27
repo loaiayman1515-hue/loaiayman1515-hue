@@ -9,7 +9,7 @@
 
 **Software Engineering Student · Data Scientist · Machine Learning & Deep Learning Engineer**
 
-<img src="https://komarev.com/ghpvc/?username=loayayman&label=Profile%20Views&color=2EA6FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=loayayman1515-hue&label=Profile%20Views&color=2EA6FF&style=for-the-badge" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/loayayman?label=Followers&style=for-the-badge&color=2EA6FF" alt="Followers"/>
 
 <br/>
@@ -18,6 +18,16 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/your-kaggle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+
+</div>
+
+<br/>
+
+## 🧠 AI Terminal
+
+<div align="center">
+
+<img src="./assets/loay-terminal.svg" width="900" alt="Loay Ayman AI terminal" />
 
 </div>
 
@@ -120,8 +130,8 @@ I'm a **Software Engineering student** passionate about **Artificial Intelligenc
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=loayayman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EA6FF&icon_color=2EA6FF&text_color=C9D1D9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loayayman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EA6FF&text_color=C9D1D9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=loayayman1515-hue&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EA6FF&icon_color=2EA6FF&text_color=C9D1D9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loayayman1515-hue&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EA6FF&text_color=C9D1D9"/>
 
 </div>
 
@@ -131,31 +141,29 @@ I'm a **Software Engineering student** passionate about **Artificial Intelligenc
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=loayayman&theme=tokyonight&hide_border=true&background=0D1117&stroke=2EA6FF&ring=2EA6FF&fire=2EA6FF&currStreakLabel=2EA6FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=loayayman1515-hue&theme=tokyonight&hide_border=true&background=0D1117&stroke=2EA6FF&ring=2EA6FF&fire=2EA6FF&currStreakLabel=2EA6FF"/>
 
 </div>
 
 <br/>
 
-## 🏆 GitHub Trophies
+## 🌌 Contribution Universe
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=loayayman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=loayayman1515-hue&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
 
 </div>
 
 <br/>
 
-## 🐍 Contribution Snake
+## 🌌 Contribution Universe
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/loayayman/loayayman/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/loayayman1515-hue/loayayman1515-hue/comet-graph/comet.svg" alt="Cinematic comet contribution graph" />
 
 </div>
-
-> Generated automatically via GitHub Actions using [Platane/snk](https://github.com/Platane/snk) — add the workflow to your `loayayman/loayayman` repo to activate it.
 
 <br/>
 
@@ -164,17 +172,17 @@ I'm a **Software Engineering student** passionate about **Artificial Intelligenc
 <div align="center">
 
 <a href="https://github.com/loayayman/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=loayayman&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EA6FF&icon_color=2EA6FF&text_color=C9D1D9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=loayayman1515-hue&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EA6FF&icon_color=2EA6FF&text_color=C9D1D9" />
 </a>
 <a href="https://github.com/loayayman/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=loayayman&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EA6FF&icon_color=2EA6FF&text_color=C9D1D9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=loayayman1515-hue&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EA6FF&icon_color=2EA6FF&text_color=C9D1D9" />
 </a>
 
 <a href="https://github.com/loayayman/REPO_NAME_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=loayayman&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EA6FF&icon_color=2EA6FF&text_color=C9D1D9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=loayayman1515-hue&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EA6FF&icon_color=2EA6FF&text_color=C9D1D9" />
 </a>
 <a href="https://github.com/loayayman/REPO_NAME_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=loayayman&repo=REPO_NAME_4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EA6FF&icon_color=2EA6FF&text_color=C9D1D9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=loayayman1515-hue&repo=REPO_NAME_4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EA6FF&icon_color=2EA6FF&text_color=C9D1D9" />
 </a>
 
 </div>
@@ -203,7 +211,7 @@ I'm a **Software Engineering student** passionate about **Artificial Intelligenc
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loayayman)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loayayman1515-hue)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/your-kaggle)
 
 <br/>
